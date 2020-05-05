@@ -1,0 +1,4 @@
+*.ipynb
+.ipynb_checkpoints/
+EvolutionMaps/
+Final_Datasets/
